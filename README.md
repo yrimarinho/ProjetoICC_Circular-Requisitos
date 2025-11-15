@@ -11,8 +11,8 @@ O **AMOC** fornecerá aos usuários os horários de chegada do circular, bem com
 horários, localização do veículo em tempo real e o tempo estimado de chegada ao destino, além de 
 um mapa exclusivo da universidade, destacando cada parada do circular.
 ### 1.3 Definições e Abreviações
--**AMOC**: Aplicativo de Monitoramento do Ônibus Circular
--**UFRPE**: Universidade Federal Rural de Pernambuco
--**Circular**: Ônibus Circular
+-**AMOC**: Aplicativo de Monitoramento do Ônibus Circular  
+-**UFRPE**: Universidade Federal Rural de Pernambuco  
+-**Circular**: Ônibus Circular  
 ### 1.4 Referências
 [UFRPE. Circular Universitário – Horários e Informações.](http://www.delogs.ufrpe.br/br/content/circular-ufrpe) Acesso em: 15 nov. 2025.
