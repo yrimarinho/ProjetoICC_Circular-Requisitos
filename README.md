@@ -15,5 +15,4 @@ um mapa exclusivo da universidade, destacando cada parada do circular.
 -**UFRPE**: Universidade Federal Rural de Pernambuco
 -**Circular**: Ônibus Circular
 ### 1.4 Referências
-[UFRPE. Circular Universitário – Horários e Informações.]
-(http://www.delogs.ufrpe.br/br/content/circular-ufrpe) Acesso em: 15 nov. 2025.
+[UFRPE. Circular Universitário – Horários e Informações.](http://www.delogs.ufrpe.br/br/content/circular-ufrpe) Acesso em: 15 nov. 2025.
