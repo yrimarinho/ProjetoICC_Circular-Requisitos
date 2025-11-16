@@ -41,9 +41,11 @@ conexão com a internet, estarem com seu sistema de localização (GPS) ativado.
 |:---:|---|:---:|
 | RF01 | O sistema deve permitir ao usuário consultar os horários de chegada dos ônibus circulares, <br> exibindo informações atualizadas sobre os próximos horários disponíveis. | **Alta** |
 | RF02 | O sistema deve apresentar uma tabela completa com todos os horários do circular ao longo <br> do dia e da semana. | **Alta** |
-| RF03 | O sistema deve mostrar em tempo real a localização atual do ônibus circular por meio de <br> um mapa interativo, facilitando o acompanhamento do trajeto. | **Alta** |
+| RF03 | O sistema deve mostrar em tempo real a localização atual do ônibus circular por meio de um <br> mapa interativo, facilitando o acompanhamento do trajeto. | **Alta** |
 | RF04 | O sistema deve conter um mapa exclusivo da universidade com destaque visual para os pontos <br> de parada do circular, facilitando a identificação pelo usuário. | **Média** |
 | RF05 | O sistema deve calcular e exibir o tempo estimado de chegada do ônibus circular até cada uma <br> das paradas disponíveis, com base na posição atual do veículo. | **Alta** |
 | RF06 | O sistema deve atualizar automaticamente as informações em intervalos regulares, garantindo <br> precisão nos dados fornecidos aos usuários. | **Alta** |
 | RF07 | O sistema deve permitir ao usuário selecionar uma parada desejada e visualizar informações <br> específicas, como previsão de chegada do próximo ônibus e lista de horários de atendimento <br> dessa parada. | **Média** |
+| RF08 | O sistema deve apresentar funcionalidades e interfaces diferenciadas para usuários e motoristas. <br> Visto que, é necessário uma ambientação específica de cada perfil. | **Alta** |
+
 
