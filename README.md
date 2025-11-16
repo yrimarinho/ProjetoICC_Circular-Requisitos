@@ -16,6 +16,7 @@ um mapa exclusivo da universidade, destacando cada parada do circular.
 -**Circular**: Ônibus circular interno da UFRPE   
 ### 1.4 Referências
 [UFRPE. Circular Universitário – Horários e Informações.](http://www.delogs.ufrpe.br/br/content/circular-ufrpe) Acesso em: 15 nov. 2025.  
+
 ## 2 Descrição Geral
 ### 2.1 Perspectiva do produto
 O aplicativo terá o intuito de monitorar e acompanhar os ônibus circulares
