@@ -39,7 +39,7 @@ conexão com a internet, estarem com seu sistema de localização (GPS) ativado.
 ## 3. Requisitos Funcionais
 | Código | Descrição | Prioridade |
 |---|---|---|
-| RF01 | O sistema deve permitir ao usuário <br>consultar os horários de chegada <br>dos ônibus circulares, exibindo <br>informações atualizadas sobre <br>os próximos horários disponíveis. | Alta |
+| RF01 | O sistema deve permitir ao usuário consultar os horários de chegada <br>dos ônibus circulares, exibindo informações atualizadas sobre <br> os próximos horários disponíveis. | Alta |
 
 
 
