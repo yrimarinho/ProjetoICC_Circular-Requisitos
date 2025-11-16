@@ -32,6 +32,9 @@ substituir os grupos de redes sociais para acompanhamento desses transportes.
 ### 2.4 Restrições
 As informações salvas dos alunos cadastrados terão que ser atualizadas a cada semestre.
 ### 2.5 Suposições e Dependências
-Os alunos da UFRPE precisarão se cadastrar.  
-O aplicativo precisará estar conectado a internet e os condutores precisarão, para além da
-conexão com a internet, estarem com seu sistema de localização (GPS) ativado.
+- Os alunos da UFRPE precisarão se cadastrar.  
+- O aplicativo precisará estar conectado a internet e os condutores precisarão, para além da
+conexão com a internet, estarem com seu sistema de localização (GPS) ativado.  
+
+
+
