@@ -48,4 +48,14 @@ conexão com a internet, estarem com seu sistema de localização (GPS) ativado.
 | RF07 | O sistema deve permitir ao usuário selecionar uma parada desejada e visualizar informações <br> específicas, como previsão de chegada do próximo ônibus e lista de horários de atendimento <br> dessa parada. | **Média** |
 | RF08 | O sistema deve apresentar funcionalidades e interfaces diferenciadas para usuários e motoristas. <br> Visto que, é necessário uma ambientação específica de cada perfil. | **Alta** |
 
-
+## 4. Requisitos Não Funcionais
+| Código | Categoria |Descrição | Prioridade |
+|:---:|:---:|---|:---:|
+| RNF01 | **Desempenho** | As páginas devem carregar em até **3 segundos**. | **a** |
+| RNF02 | **Desempenho** | O servidor deve suportar até **600 usuários simultâneos**. | **a** |
+| RNF03 | **Desempenho** | O GPS deve ser atualizado em **tempo real**, com tolerância máxima de **2 segundos de atraso**. | **a** |
+| RNF04 | **Desempenho** | O sistema deve manter uma **conexão estável com a internet** para funcionamento adequado. | **a** |
+| RNF05 | **Segurança** | Os dados do usuário devem ser protegidos por **criptografia**, tanto em trânsito quanto <br> em armazenamento. | **a** |
+| RNF06 | **Manutenibilidade** | O sistema deve ser **modularizado**, permitindo criação e implementação simples de <br> novas funcionalidades e atualizações. | **a** |
+| RNF07 | **Usabilidade** | A interface deve ser **intuitiva**, clara e de fácil navegação para usuários de diferentes <br> níveis de experiência. | **a** |
+| RNF08 | **Usabilidade** | O sistema deve ser **acessível a usuários com algum tipo de deficiência**, seguindo boas <br> práticas de acessibilidade (*como textos legíveis, contraste adequado e compatibilidade <br> com leitores de tela*). | **a** |
