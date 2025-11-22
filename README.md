@@ -51,11 +51,11 @@ conexão com a internet, estarem com seu sistema de localização (GPS) ativado.
 ## 4. Requisitos Não Funcionais
 | Código | Categoria |Descrição | Prioridade |
 |:---:|:---:|---|:---:|
-| RNF01 | **Desempenho** | As páginas devem carregar em até **3 segundos**. | **a** |
-| RNF02 | **Desempenho** | O servidor deve suportar até **600 usuários simultâneos**. | **a** |
-| RNF03 | **Desempenho** | O GPS deve ser atualizado em **tempo real**, com tolerância máxima de **2 segundos de atraso**. | **a** |
-| RNF04 | **Desempenho** | O sistema deve manter uma **conexão estável com a internet** para funcionamento adequado. | **a** |
-| RNF05 | **Segurança** | Os dados do usuário devem ser protegidos por **criptografia**, tanto em trânsito quanto <br> em armazenamento. | **a** |
-| RNF06 | **Manutenibilidade** | O sistema deve ser **modularizado**, permitindo criação e implementação simples de <br> novas funcionalidades e atualizações. | **a** |
-| RNF07 | **Usabilidade** | A interface deve ser **intuitiva**, clara e de fácil navegação para usuários de diferentes <br> níveis de experiência. | **a** |
-| RNF08 | **Usabilidade** | O sistema deve ser **acessível a usuários com algum tipo de deficiência**, seguindo boas <br> práticas de acessibilidade (*como textos legíveis, contraste adequado e compatibilidade <br> com leitores de tela*). | **a** |
+| RNF01 | **Desempenho** | As páginas devem carregar em até **3 segundos**. | **Alta** |
+| RNF02 | **Desempenho** | O servidor deve suportar até **600 usuários simultâneos**. | **Alta** |
+| RNF03 | **Desempenho** | O GPS deve ser atualizado em **tempo real**, com tolerância máxima de **2 segundos de atraso**. | **Alta** |
+| RNF04 | **Desempenho** | O sistema deve manter uma **conexão estável com a internet** para funcionamento adequado. | **Alta** |
+| RNF05 | **Segurança** | Os dados do usuário devem ser protegidos por **criptografia**, tanto em trânsito quanto <br> em armazenamento. | **Alta** |
+| RNF06 | **Manutenibilidade** | O sistema deve ser **modularizado**, permitindo criação e implementação simples de <br> novas funcionalidades e atualizações. | **Média** |
+| RNF07 | **Usabilidade** | A interface deve ser **intuitiva**, clara e de fácil navegação para usuários de diferentes <br> níveis de experiência. | **Média** |
+| RNF08 | **Usabilidade** | O sistema deve ser **acessível a usuários com algum tipo de deficiência**, seguindo boas <br> práticas de acessibilidade (*como textos legíveis, contraste adequado e compatibilidade <br> com leitores de tela*). | **Média** |
